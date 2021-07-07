@@ -165,12 +165,12 @@ sup {
 }
 
 a {
-    color: #335eea;
-    text-decoration:none
+    color: #194128;
+    text-decoration:none;
+    font-weight: bold;
 }
 
 a:hover {
-    color: #133bbd;
     text-decoration:underline
 }
 
