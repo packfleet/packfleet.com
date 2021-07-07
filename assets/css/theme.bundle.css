@@ -37,7 +37,7 @@ body {
     font-size: 1.0625rem;
     font-weight: 400;
     line-height: 1.6;
-    color: #161c2d;
+    color: #162d17;
     background-color: #fff;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(22, 28, 45, 0)
@@ -3324,9 +3324,7 @@ progress {
 }
 
 .btn-check:active + .btn-primary, .btn-check:checked + .btn-primary, .btn-primary.active, .btn-primary:active, .show > .btn-primary.dropdown-toggle {
-    color: #fff;
-    background-color: #1643d4;
-    border-color:#153fc9
+
 }
 
 .btn-check:active + .btn-primary:focus, .btn-check:checked + .btn-primary:focus, .btn-primary.active:focus, .btn-primary:active:focus, .show > .btn-primary.dropdown-toggle:focus {
@@ -3350,9 +3348,7 @@ progress {
 }
 
 .btn-check:active + .btn-secondary, .btn-check:checked + .btn-secondary, .btn-secondary.active, .btn-secondary:active, .show > .btn-secondary.dropdown-toggle {
-    color: #fff;
-    background-color: #3e4f6f;
-    border-color:#394967
+
 }
 
 .btn-check:active + .btn-secondary:focus, .btn-check:checked + .btn-secondary:focus, .btn-secondary.active:focus, .btn-secondary:active:focus, .show > .btn-secondary.dropdown-toggle:focus {
@@ -4765,7 +4761,7 @@ progress {
 }
 
 .navbar-light .navbar-toggler-icon {
-    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='%23506690' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='%2342FF00' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
 }
 
 .navbar-light .navbar-text {
@@ -7072,7 +7068,7 @@ button.close {
 }
 
 .border-success {
-    border-color:#42ba96 !important
+    border-color:#33ab03 !important
 }
 
 .border-info {
@@ -9162,7 +9158,7 @@ button.close {
 }
 
 .text-muted {
-    color:#869ab8 !important
+    color:#8b928b !important
 }
 
 .text-muted-80 {
@@ -20701,7 +20697,7 @@ code {
         height: auto;
         max-height: calc(100% - 2rem) !important;
         width: calc(100% - 2rem);
-        background-color: #fff;
+        background-color: #264a33;
         border-radius: .375rem;
         box-shadow: 0 1.5rem 4rem rgba(22, 28, 45, .15);
         overflow-x: hidden;
@@ -20748,7 +20744,7 @@ code {
     }
 
     .navbar-collapse .navbar-nav .nav-item + .nav-item {
-        border-top:1px solid #f1f4f8
+        border-top:1px solid #194128
     }
 }
 
@@ -21264,8 +21260,8 @@ a.card-body:hover, a.card-footer:hover, a.card-meta:hover, a.card:hover {
 }
 
 .badge.bg-primary-soft {
-    background-color: rgba(51, 94, 234, .1);
-    color:#335eea
+    background-color: #194128;
+    color:#42FF00
 }
 
 .badge.bg-primary-soft[href]:focus, .badge.bg-primary-soft[href]:hover {
@@ -22500,7 +22496,7 @@ a.card-body:hover, a.card-footer:hover, a.card-meta:hover, a.card:hover {
 }
 
 .fe-arrow-down:before {
-    content: "\e90c"
+    content: "👇"
 }
 
 .fe-arrow-down-circle:before {
@@ -22624,7 +22620,7 @@ a.card-body:hover, a.card-footer:hover, a.card-meta:hover, a.card:hover {
 }
 
 .fe-check:before {
-    content: "\e92b"
+    content: "👍"
 }
 
 .fe-check-circle:before {
@@ -23484,7 +23480,7 @@ a.card-body:hover, a.card-footer:hover, a.card-meta:hover, a.card:hover {
 }
 
 .fe-x:before {
-    content: "\ea02"
+    content: "❎"
 }
 
 .fe-x-circle:before {
